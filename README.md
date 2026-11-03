@@ -49,9 +49,9 @@ The Power BI dashboard includes:
 - Recorded Time Analysis
 ## Power BI Dashboard
 
-Download the Power BI dashboard:
+The interactive Power BI dashboard created for this project can be accessed below:
 
-[Download PBIX File]https://drive.google.com/file/d/1EL5pQh2nYBgrLSYbyYBzCLE3o4y7ZGE1/view?usp=sharing
+[Download Credit Card Fraud Analysis Dashboard (.pbix)](https://drive.google.com/file/d/1EL5pQh2nYBgrLSYbyYBzCLE3o4y7ZGE1/view?usp=sharing)
 
 ## Real-Time Fraud Alert Recommendations
 - Flag unusually high transaction amounts.
