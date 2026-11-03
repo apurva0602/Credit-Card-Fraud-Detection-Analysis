@@ -47,6 +47,11 @@ The Power BI dashboard includes:
 - Fraud vs Genuine Distribution
 - Transaction Amount Analysis
 - Recorded Time Analysis
+## Power BI Dashboard
+
+Download the Power BI dashboard:
+
+[Download PBIX File]https://drive.google.com/file/d/1EL5pQh2nYBgrLSYbyYBzCLE3o4y7ZGE1/view?usp=sharing
 
 ## Real-Time Fraud Alert Recommendations
 - Flag unusually high transaction amounts.
