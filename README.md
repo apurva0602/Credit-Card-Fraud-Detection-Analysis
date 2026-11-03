@@ -23,6 +23,14 @@ ULB Credit Card Fraud Detection Dataset from Kaggle.
 - Total Transactions: 284,807
 - Fraud Transactions: 492
 - Genuine Transactions: 284,315
+## Dataset Source
+
+The dataset used in this project is publicly available on Kaggle.
+
+Download here:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+Note: The original dataset is not included in this repository due to its large file size.
 
 ## Key Findings
 - Fraud transactions have a higher average amount ($122.21) than genuine transactions ($88.29).
