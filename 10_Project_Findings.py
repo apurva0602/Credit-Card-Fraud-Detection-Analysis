@@ -1,0 +1,30 @@
+findings = """
+CREDIT CARD FRAUD DETECTION - PROJECT FINDINGS
+
+1. Total Transactions: 284807
+2. Fraud Transactions: 492
+3. Genuine Transactions: 284315
+
+4. Average Fraud Amount: 122.21
+5. Average Genuine Amount: 88.29
+
+6. Median Fraud Amount: 9.25
+7. Median Genuine Amount: 22.00
+
+KEY INSIGHTS:
+- Fraud transactions have a higher average amount.
+- Fraud transactions have a lower median amount.
+- Some fraud transactions have very high amounts.
+- Fraud can occur in both small and large transactions.
+
+REAL-TIME ALERT RECOMMENDATIONS:
+- Flag unusually high transaction amounts.
+- Monitor suspicious transaction patterns.
+- Generate alerts when multiple risk signals appear.
+- Use additional authentication for high-risk transactions.
+"""
+
+with open("Project_Findings.txt", "w") as file:
+    file.write(findings)
+
+print("Project findings saved successfully!")
